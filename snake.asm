@@ -671,4 +671,4 @@ def main():
 
 if __name__ == '__main__':
     main()
-//Monitoring Instruments for Linux
+//Linux Instrument Monitoring בסייד
